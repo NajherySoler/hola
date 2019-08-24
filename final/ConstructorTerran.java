@@ -14,6 +14,7 @@ public class ConstructorTerran extends Terran
      */
     public void act() 
     {
-        // Add your action code here.
+        // Addyour action code here.
     }    
 }
+
